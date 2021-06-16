@@ -26,6 +26,7 @@ Discord official website: https://discord.com/
 ## Miscellaneous
 1. [Discord status](https://discordstatus.com/)
 2. [Discord Wiki](https://discordia.me/en/home)
+3. [Discord Avatar viewer](https://discordzoom.com/en/)
 
 ## Discord Search syntax
 These are some commands ( filters ) used in the discord searchbar to search things easier.
