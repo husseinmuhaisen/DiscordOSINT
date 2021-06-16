@@ -34,7 +34,7 @@ Discord official website: https://discord.com/
 3. [Discord Avatar viewer](https://discordzoom.com/en/)
 
 ## Discord Simple OSINT template I created 
- * (shorturl.at/rACIL)
+ *(shorturl.at/rACIL)
 
 ## Discord Search syntax
 These are some commands ( filters ) used in the discord searchbar to search things easier.
