@@ -28,6 +28,9 @@ Discord official website: https://discord.com/
 2. [Discord Wiki](https://discordia.me/en/home)
 3. [Discord Avatar viewer](https://discordzoom.com/en/)
 
+## Discord Simple OSINT template I created 
+[OSINT Template](shorturl.at/rACIL)
+
 ## Discord Search syntax
 These are some commands ( filters ) used in the discord searchbar to search things easier.
 to narrow down your search, use the following filters along with your search query.
