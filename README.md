@@ -3,6 +3,7 @@
 
 
 Discord official website: https://discord.com/
+Watch my YouTube video about Discord OSINT --> https://t.co/6Si3UQuLif?amp=1
 
 ## Enable Discord developer mode to get user IDs and other types of IDs
 1. [Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
