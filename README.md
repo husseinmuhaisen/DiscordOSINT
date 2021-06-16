@@ -38,4 +38,6 @@ to narrow down your search, use the following filters along with your search que
 5. during: date --> Results only show messages sent on specified date.
 6. after: date --> Results only show messages sent after specified date.
 7. in: channels --> Results only show messages sent in specified channel.
+
+
 ![Discord search operators](https://user-images.githubusercontent.com/59100756/122185964-66a22d80-ce42-11eb-9a70-72cfd0f5c32f.png)
