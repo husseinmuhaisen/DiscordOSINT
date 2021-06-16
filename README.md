@@ -4,6 +4,11 @@
 𝕿𝖍𝖎𝖘 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖞 𝖜𝖎𝖑𝖑 𝖈𝖔𝖓𝖙𝖆𝖎𝖓 𝖚𝖘𝖊𝖋𝖚𝖑 𝖗𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝖙𝖔 𝖈𝖔𝖓𝖉𝖚𝖈𝖙 𝖗𝖊𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖓 𝕯𝖎𝖘𝖈𝖔𝖗𝖉.
 
 Discord official website: https://discord.com/
+
+## Enable Discord developer mode to get user IDs and other types of IDs
+1.[Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
+2.[How to get UserID](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
+
 ## Tools and websites
 1. [Discord account Creation Date Finder](https://hugo.moe/discord/discord-id-creation-date.html) --> Checks the date and time of any discord account
 2. [Discord History Tracker](https://dht.chylex.com/) --> Extract chat history and lets you download it
