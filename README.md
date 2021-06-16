@@ -6,8 +6,8 @@
 Discord official website: https://discord.com/
 
 ## Enable Discord developer mode to get user IDs and other types of IDs
-1.[Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
-2.[How to get UserID](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
+1. [Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
+2. [How to get UserID](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
 
 ## Tools and websites
 1. [Discord account Creation Date Finder](https://hugo.moe/discord/discord-id-creation-date.html) --> Checks the date and time of any discord account
