@@ -10,14 +10,14 @@ Discord official website: https://discord.com/
 3. [Unfurl](https://dfir.blog/unfurl/) --> Simplifies Links
 
 
-## Discord server search engine
+## Discord server search engines
 1. [Discord.me](https://discord.me/servers)
 2. [Discord servers](https://discordservers.com/)
 3. [Disboard](https://disboard.org/)
 4. [Discord portal](http://discordportal.com) 
 5. [Discord center](http://discord.center)
 
-## Discord bots search engines
+## Discord bots search engine
 1. [Top.gg](https://top.gg/)
 2. [Discordbots.gg](https://discord.bots.gg/)
 3. [Discord.com](https://discord.com/invite/0cDvIgU2voWn4BaD)
