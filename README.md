@@ -34,6 +34,8 @@ Watch my YouTube video about Discord OSINT --> https://t.co/6Si3UQuLif
 1. [Discord status](https://discordstatus.com/)
 2. [Discord Wiki](https://discordia.me/en/home)
 3. [Discord Avatar viewer](https://discordzoom.com/en/)
+4. [Dic.gg Vanity Links](https://dsc.gg/)
+5. [Discord profiles maker](https://discords.com/bio/profiles)
 
 ## Discord Simple OSINT template I created 
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
