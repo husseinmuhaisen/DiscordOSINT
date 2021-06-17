@@ -57,7 +57,7 @@ to narrow down your search, use the following filters along with your search que
 ![Discord search operators](https://user-images.githubusercontent.com/59100756/122185964-66a22d80-ce42-11eb-9a70-72cfd0f5c32f.png)
 
 ## 🔍🔍 Google Search queries & Dorks 🔍🔍
-# Note that "SystemExploited" and the userID used should be replaced with your target name / userID
+### Note that "SystemExploited" and the userID used should be replaced with your target name / userID
 
 1. "system exploited discord " --> username search
 2. 535045342098489344 --> user ID search
