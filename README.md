@@ -4,33 +4,33 @@
 
 Discord official website: https://discord.com/
 
-Watch my YouTube video about Discord OSINT --> https://t.co/6Si3UQuLif
+🔴🔴 Watch my YouTube video about Discord OSINT 🔴🔴 --> https://t.co/6Si3UQuLif
 
 ## Enable Discord developer mode to get user IDs and other types of IDs
 1. [Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
 2. [How to get UserID](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
 
-## Tools and websites
+## ⚒️🌎 Tools and websites ⚒️🌎
 1. [Discord account Creation Date Finder](https://hugo.moe/discord/discord-id-creation-date.html) --> Checks the date and time of any discord account
 2. [Discord History Tracker](https://dht.chylex.com/) --> Extract chat history and lets you download it
 3. [Unfurl](https://dfir.blog/unfurl/) --> Simplifies Links
 4. [Greenshot](https://getgreenshot.org/) --> Take screenshots easily
 
 
-## Discord server search engines
+## 🖥️🖥️ Discord server search engines 🖥️🖥️
 1. [Discord.me](https://discord.me/servers)
 2. [Discord servers](https://discordservers.com/)
 3. [Disboard](https://disboard.org/)
 4. [Discord portal](http://discordportal.com) 
 5. [Discord center](http://discord.center)
 
-## Discord bots search engine
+## 🤖🤖 Discord bots search engine 🤖🤖
 1. [Top.gg](https://top.gg/)
 2. [Discordbots.gg](https://discord.bots.gg/)
 3. [Discord.com](https://discord.com/invite/0cDvIgU2voWn4BaD)
 4. [Discordbotlist](https://discordbotlist.com/)
 
-## Miscellaneous
+## ✔️✔️ Miscellaneous ✔️✔️
 1. [Discord status](https://discordstatus.com/)
 2. [Discord Wiki](https://discordia.me/en/home)
 3. [Discord Avatar viewer](https://discordzoom.com/en/)
@@ -41,7 +41,7 @@ Watch my YouTube video about Discord OSINT --> https://t.co/6Si3UQuLif
 ## Discord Simple OSINT template I created 
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
 
-## Discord Search syntax
+## ✨✨ Discord Search syntax ✨✨
 These are some commands ( filters ) used in the discord searchbar to search things easier.
 to narrow down your search, use the following filters along with your search query.
 
@@ -62,4 +62,7 @@ to narrow down your search, use the following filters along with your search que
 1. "system exploited discord " --> username search
 2. 535045342098489344 --> user ID search
 3. SystemExploited#0773 --> username search with the #
+4. system exploited discord twitter 
+5. system exploited discord instagram
+6. system exploited discord titkok
 
