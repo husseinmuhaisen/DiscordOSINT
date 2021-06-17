@@ -38,7 +38,7 @@ Discord official website: https://discord.com/
 5. [Discord profiles maker](https://discords.com/bio/profiles)
 6. [Discord server templates](https://www.discord.style/)
 7. [DiscordBadges](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
-## Discord Simple OSINT template I created 
+## 📚📚 Discord Simple OSINT template I created 📚📚
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
 
 ## ✨✨ Discord Search syntax ✨✨
