@@ -36,6 +36,7 @@ Watch my YouTube video about Discord OSINT --> https://t.co/6Si3UQuLif
 3. [Discord Avatar viewer](https://discordzoom.com/en/)
 4. [Dic.gg Vanity Links](https://dsc.gg/)
 5. [Discord profiles maker](https://discords.com/bio/profiles)
+6. [Discord server templates](https://www.discord.style/)
 
 ## Discord Simple OSINT template I created 
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
@@ -54,3 +55,11 @@ to narrow down your search, use the following filters along with your search que
 
 
 ![Discord search operators](https://user-images.githubusercontent.com/59100756/122185964-66a22d80-ce42-11eb-9a70-72cfd0f5c32f.png)
+
+## 🔍🔍 Google Search queries & Dorks 🔍🔍
+# Note that "SystemExploited" and the userID used should be replaced with your target name / userID
+
+1. "system exploited discord " --> username search
+2. 535045342098489344 --> user ID search
+3. SystemExploited#0773 --> username search with the #
+
