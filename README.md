@@ -39,6 +39,7 @@ Discord official website: https://discord.com/
 6. [Discord server templates](https://www.discord.style/)
 7. [DiscordBadges](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
 8. [Discord hooks](https://discohook.org)
+9. [Discord 3rd party clients/Mods](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
 ## 📚📚 Discord Simple OSINT template I created 📚📚
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
 
