@@ -41,6 +41,14 @@ Discord official website: https://discord.com/
 8. [Discord hooks](https://discohook.org)
 9. [Discord 3rd party clients/Mods](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
 10. [Discord ID lookup](https://github.com/Nenaff/Disserv)
+
+## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
+1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
+2. [Discord Image Exploit](https://github.com/TheonlyIcebear/Discord-Image-Exploit)
+3. [Discord console scripts & explanations of how discord work](https://github.com/Discord-Oxygen/Discord-Console-hacks)
+4. [Collection of everything discord using NodeJS](https://github.com/hanaui-git/ZeroDiscord)
+5. [Discord Group flood](https://github.com/FuckingToasters/discord-group-spammer)
+
 ## 📚📚 Discord Simple OSINT template I created 📚📚
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
 
