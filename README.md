@@ -41,6 +41,7 @@ Discord official website: https://discord.com/
 8. [Discord hooks](https://discohook.org)
 9. [Discord 3rd party clients/Mods](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
 10. [Discord ID lookup](https://github.com/Nenaff/Disserv)
+11. [Discord scam links DB](https://github.com/Discord-AntiScam/scam-links)
 
 ## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
 1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
