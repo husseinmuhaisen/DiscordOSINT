@@ -42,7 +42,7 @@ Discord official website: https://discord.com/
 9. [Discord 3rd party clients/Mods](https://github.com/Discord-Client-Encyclopedia-Management/Discord3rdparties)
 10. [Discord ID lookup](https://github.com/Nenaff/Disserv)
 11. [Discord scam links DB](https://github.com/Discord-AntiScam/scam-links)
-12.[Discord scam links #2 -- more discord focused](https://github.com/DevSpen/scam-links/)
+12. [Discord scam links #2 -- more discord focused](https://github.com/DevSpen/scam-links/)
 
 ## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
 1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
