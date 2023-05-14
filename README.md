@@ -3,7 +3,8 @@
 
 # Support is appreciated
 [Support page](https://www.buymeacoffee.com/husseinmuhaisen)
-Discord official website: https://discord.com/
+
+###Discord official website: https://discord.com/
 
 🔴🔴 Watch my YouTube video about Discord OSINT 🔴🔴 --> https://t.co/6Si3UQuLif
 
