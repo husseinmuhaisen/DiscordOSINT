@@ -1,7 +1,8 @@
 # 🕵️ 𝕿𝖍𝖎𝖘 𝖗𝖊𝖕𝖔𝖘𝖎𝖙𝖔𝖗𝖞 𝖜𝖎𝖑𝖑 𝖈𝖔𝖓𝖙𝖆𝖎𝖓 𝖚𝖘𝖊𝖋𝖚𝖑 𝖗𝖊𝖘𝖔𝖚𝖗𝖈𝖊𝖘 𝖙𝖔 𝖈𝖔𝖓𝖉𝖚𝖈𝖙 𝖗𝖊𝖘𝖊𝖆𝖗𝖈𝖍 𝖔𝖓 𝕯𝖎𝖘𝖈𝖔𝖗𝖉 🕵️
 ![Dis](https://user-images.githubusercontent.com/59100756/122181954-ab2bca00-ce3e-11eb-8162-4f6c92d1a3dc.png)
 
-
+# Support is appreciated
+[Support page](https://www.buymeacoffee.com/husseinmuhaisen)
 Discord official website: https://discord.com/
 
 🔴🔴 Watch my YouTube video about Discord OSINT 🔴🔴 --> https://t.co/6Si3UQuLif
