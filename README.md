@@ -31,6 +31,7 @@
 2. [Discordbots.gg](https://discord.bots.gg/)
 3. [Discord.com](https://discord.com/invite/0cDvIgU2voWn4BaD)
 4. [Discordbotlist](https://discordbotlist.com/)
+5. [Ayblisting](https://ayblisting.com/)
 
 ## ✔️✔️ Miscellaneous ✔️✔️
 1. [Discord status](https://discordstatus.com/)
