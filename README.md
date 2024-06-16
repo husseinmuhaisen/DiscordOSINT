@@ -48,6 +48,7 @@
 12. [Discord scam links #2 -- more discord focused](https://github.com/DevSpen/scam-links/)
 13. [Discord & Steam Phishing URLs](https://github.com/Dogino/Discord-Phishing-URLs)
 14. [Actively maintained discord phishing links](https://github.com/nikolaischunk/discord-phishing-links)
+15. [Discord lookup tool](https://github.com/discordlookup/discordlookup)
 
 ## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
 1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
