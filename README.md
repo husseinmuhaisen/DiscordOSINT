@@ -56,6 +56,7 @@
 3. [Discord console scripts & explanations of how discord work](https://github.com/Discord-Oxygen/Discord-Console-hacks)
 4. [Collection of everything discord using NodeJS](https://github.com/hanaui-git/ZeroDiscord)
 5. [Discord Group flood](https://github.com/FuckingToasters/discord-group-spammer)
+6. [A collection of Discord hacks, exploits & tools that is completely made using NodeJS](https://github.com/cspi-git/ZeroDiscord)
 
 ## 📚📚 Discord Simple OSINT template I created 📚📚
  * https://drive.google.com/file/d/18yU85e7o_11URHRcGlRwRRpQg8rhjWDE
