@@ -2,11 +2,14 @@
 ![Dis](https://user-images.githubusercontent.com/59100756/122181954-ab2bca00-ce3e-11eb-8162-4f6c92d1a3dc.png)
 
 # Support is appreciated
-[Support page](https://www.buymeacoffee.com/husseinmuhaisen)
+[Support page](https://www.paypal.com/donate/?hosted_button_id=CTY9VF3VLD4BY)
 
 ###Discord official website: https://discord.com/
+1. [Restore access to a discord account](https://discord.com/login)
 
-🔴🔴 Watch my YouTube video about Discord OSINT 🔴🔴 --> https://t.co/6Si3UQuLif
+#### Discord architecture
+Discord functions on a central client-server structure. This proprietary service delivers communication via audio, video, and text, using WebRTC (Web Real-Time Communication) for implementation. Discord can be accessed through a web interface and also offers dedicated apps compatible with a wide range of operating systems, including Windows, Linux, and Mac. Additionally, it supports mobile devices running on Android and iOS.
+
 
 ## Enable Discord developer mode to get user IDs and other types of IDs
 1. [Enable Discord Developer mode Guide](https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/)
@@ -21,10 +24,12 @@
 
 ## 🖥️🖥️ Discord server search engines 🖥️🖥️
 1. [Discord.me](https://discord.me/servers)
-2. [Discord servers](https://discordservers.com/)
-3. [Disboard](https://disboard.org/)
-4. [Discord portal](http://discordportal.com) 
-5. [Discord center](http://discord.center)
+2. [Discord official server search](https://discord.com/servers)
+3. [Discord servers](https://discordservers.com/)
+4. [Disboard](https://disboard.org/)
+5. [Discord portal](http://discordportal.com) 
+6. [Discord center](http://discord.center)
+7. [Discord discadia](https://discadia.com/)
 
 ## 🤖🤖 Discord bots search engine 🤖🤖
 1. [Top.gg](https://top.gg/)
@@ -49,6 +54,15 @@
 13. [Discord & Steam Phishing URLs](https://github.com/Dogino/Discord-Phishing-URLs)
 14. [Actively maintained discord phishing links](https://github.com/nikolaischunk/discord-phishing-links)
 15. [Discord lookup tool](https://github.com/discordlookup/discordlookup)
+16. [Discord secret message creator](https://holloway.nz/steg/)
+17. [Discord leaks](https://discordleaks.unicornriot.ninja/)
+18. [Discord history tracker](https://dht.chylex.com/)
+19. [Comment export](https://exportcomments.com/)
+20. [Canary tokens](https://canarytokens.org/nest/generate)
+21. [Nickname finder](https://whatsmyname.app/)
+22. [Face finder](https://facecheck.id/)
+23. [Username search](https://instantusername.com/#/)
+24. [Username search #2](https://usersearch.org/)
 
 ## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
 1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
