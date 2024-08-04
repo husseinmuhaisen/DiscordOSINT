@@ -4,7 +4,7 @@
 # Support is appreciated
 [Support page](https://www.paypal.com/donate/?hosted_button_id=CTY9VF3VLD4BY)
 
-###Discord official website: https://discord.com/
+### Discord official website: https://discord.com/
 1. [Restore access to a discord account](https://discord.com/login)
 
 #### Discord architecture
