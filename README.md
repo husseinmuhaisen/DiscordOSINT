@@ -63,6 +63,7 @@ Discord functions on a central client-server structure. This proprietary service
 22. [Face finder](https://facecheck.id/)
 23. [Username search](https://instantusername.com/#/)
 24. [Username search #2](https://usersearch.org/)
+25. [Discord Log bot](https://quark.bot/)
 
 ## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
 1. [List of discord console scripts](https://github.com/ImLorio/All-Discord-Exploits)
