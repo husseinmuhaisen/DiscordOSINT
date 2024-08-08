@@ -20,6 +20,7 @@ Discord functions on a central client-server structure. This proprietary service
 2. [Discord History Tracker](https://dht.chylex.com/) --> Extract chat history and lets you download it
 3. [Unfurl](https://dfir.blog/unfurl/) --> Simplifies Links
 4. [Greenshot](https://getgreenshot.org/) --> Take screenshots easily
+5. [Discord message deleter](https://github.com/victornpb/undiscord)
 
 
 ## 🖥️🖥️ Discord server search engines 🖥️🖥️
