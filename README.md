@@ -16,7 +16,7 @@ Discord functions on a central client-server structure. This proprietary service
 2. [How to get UserID](https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/)
 
 ## ⚒️🌎 Tools and websites ⚒️🌎
-1. [Discord account Creation Date Finder](https://hugo.moe/discord/discord-id-creation-date.html) --> Checks the date and time of any discord account
+  1. [Discord account Creation Date Finder](https://www.vodact.com/discord/discord-id-creation-date.html) --> Checks the date and time of any discord account
 2. [Discord History Tracker](https://dht.chylex.com/) --> Extract chat history and lets you download it
 3. [Unfurl](https://dfir.blog/unfurl/) --> Simplifies Links
 4. [Greenshot](https://getgreenshot.org/) --> Take screenshots easily
